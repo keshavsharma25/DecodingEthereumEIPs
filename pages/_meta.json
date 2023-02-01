@@ -1,0 +1,15 @@
+{
+  "index": "Introduction",
+  "core": "Core",
+  "networking": "Networking",
+  "interface": "Interface",
+  "erc": "ERC",
+  "meta": "Meta",
+  "informational": "Informational",
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://twitter.com/skeshav25",
+    "newWindow": true
+  }
+}
